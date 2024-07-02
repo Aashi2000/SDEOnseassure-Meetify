@@ -1,0 +1,9 @@
+Dependencies:
+
+fastapi
+pydantic
+motor
+uvicorn
+apscheduler
+requests
+pytz
